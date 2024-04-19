@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MirzaDSPro
+- 👋 Hi, I’m Mirza
 - 👀 I’m a Data Science and Machine Learning Explorer
 - 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/mirza-ehtesham-baig
 - 😄 Pronouns: He / Him
